@@ -1,7 +1,5 @@
 # Multi-step form
 
-(메인화면 사진)
-
 ## Contributor
 
 - @[ovoxiix](https://github.com/ovoxiix) (한은지)
