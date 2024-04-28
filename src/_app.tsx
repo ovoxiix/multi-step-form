@@ -1,5 +1,7 @@
-function App() {
-  return <div className="mx-auto mt-32">{/* <MultiStepForm /> */}</div>;
-}
+import MultiStepForm from "./components/MultiStepForm";
+
+const App = () => {
+  return <MultiStepForm />;
+};
 
 export default App;
